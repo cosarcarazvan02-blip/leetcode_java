@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-class Merge_sorted_array {
+class MergeSortedArray {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
         System.out.println("Introduceti un nr:");
